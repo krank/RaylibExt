@@ -1,6 +1,6 @@
 namespace RaylibExt;
 
-class Timer
+public class Timer
 {
   private Action _action;
   private float _time;

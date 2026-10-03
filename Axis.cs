@@ -1,4 +1,4 @@
-using Raylib_cs;
+namespace RaylibExt;
 
 public class Axis
 {
