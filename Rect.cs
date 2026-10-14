@@ -1,6 +1,6 @@
 namespace RaylibExt;
 
-public class Rect
+public partial class Rect
 {
   private Rectangle _rect;
 
@@ -14,5 +14,4 @@ public class Rect
 
   public float Y => _rect.Y;
   public float X => _rect.X;
-
 }
